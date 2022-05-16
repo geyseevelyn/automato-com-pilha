@@ -1,0 +1,12 @@
+q1 q2 q3
+0 1
+Z 0 1
+q1
+Z
+q3
+q1 0 Z q1 00Z
+q1 0 0 q1 000
+q1 1 0 q2 e
+q2 1 0 q2 e
+q2 e Z q3 Z
+q2 1 Z q2 0Z
