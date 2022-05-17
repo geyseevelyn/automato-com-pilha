@@ -5,11 +5,9 @@ q1
 Z
 q3
 q1 0 Z q1 0Z
-q1 1 Z q1 1Z
 q1 0 0 q1 00
 q1 1 0 q2 e
 q2 1 Z q2 0Z
 q2 e Z q3 Z
 q2 1 0 q2 e
-q1 e Z q3 Z
 q2 0 Z R 0Z
